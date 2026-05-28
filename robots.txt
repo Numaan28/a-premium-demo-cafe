@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.velvetbrew.com/sitemap.xml
+
+# Crawl delay (optional, respectful)
+Crawl-delay: 5
